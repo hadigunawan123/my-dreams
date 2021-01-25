@@ -1,0 +1,2 @@
+ini file didalam branch
+coba gw tambahin commit baru di file ini
